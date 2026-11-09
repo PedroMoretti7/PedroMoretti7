@@ -18,6 +18,28 @@ Essa pergunta guiou parte do **HUBSUS360**, projeto que desenvolvi em equipe. Cr
 
 [Ver o repositório completo →](https://github.com/Ladeira26/HUBSUS360)
 
+## Tech Stack
+
+### Ciência de dados e programação
+
+![Python](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/python.svg) ![Pandas](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/pandas.svg) ![NumPy](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/numpy.svg) ![Matplotlib](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/matplotlib.svg)
+
+### Bancos de dados e SQL
+
+![SQL](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/sql.svg) ![Oracle](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/oracle.svg)
+
+### Analytics e BI
+
+![Power BI](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/power-bi.svg) ![Excel](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/excel.svg)
+
+### Engenharia de dados
+
+![Databricks](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/databricks.svg) ![Apache Kafka](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/apache-kafka.svg) ![Apache Airflow](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/apache-airflow.svg)
+
+### Desenvolvimento e notebooks
+
+![GitHub](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/github.svg) ![Google Colab](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/google-colab.svg) ![Jupyter](https://raw.githubusercontent.com/PedroMoretti7/PedroMoretti7/main/assets/stack/jupyter.svg)
+
 ## Outros projetos
 
 **[BIA do Futuro ↗](https://github.com/PedroMoretti7/dio-lab-bia-do-futuro)**  
