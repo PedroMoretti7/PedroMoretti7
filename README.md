@@ -20,8 +20,8 @@ Essa pergunta guiou parte do **HUBSUS360**, projeto que desenvolvi em equipe. Cr
 
 ## Outros projetos
 
-**[BIA do Futuro ↗](https://github.com/PedroMoretti7/dio-lab-bia-do-futuro/blob/main/docs/03-prompts.md)**  
-No desafio da DIO, escrevi o prompt de um assistente de organização financeira. Os exemplos mostram como ele calcula um saldo e quando pede mais contexto antes de responder.
+**[BIA do Futuro ↗](https://github.com/PedroMoretti7/dio-lab-bia-do-futuro)**  
+Assistente em Python que lê um extrato fictício, explica as despesas por categoria e simula aportes para uma reserva. [Abrir demonstração no Colab](https://colab.research.google.com/github/PedroMoretti7/dio-lab-bia-do-futuro/blob/main/demo.ipynb).
 
 **[Assistente de voz em Python ↗](https://github.com/PedroMoretti7/-ChatGPT-por-voz-Colab-/blob/main/conversaIAvoz.ipynb)**  
 Um notebook no Google Colab acompanha o caminho de uma pergunta falada, da captura do áudio à transcrição com Whisper e à resposta por voz.
